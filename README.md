@@ -4,7 +4,7 @@
 <p align="left">
 </p>
 <p align="center">
-  <img src="https://media1.tenor.com/m/P708cZTCxb8AAAAd/cortis-juhoon.gif" width="350" alt="Cortis Juhoon GIF"/>
+  <img src="https://media.tenor.com/nahksJy4jP4AAAAi/peachy-wave.gif" width="350" alt="Cortis Juhoon GIF"/>
 </p>
 
 
